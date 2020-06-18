@@ -1,7 +1,15 @@
+#hero-section{
+    text-align: center;
+}
+
 i {
     margin-right:10px;
 }
-
-#presentation{
-    height:50%;
+.container{
+    text-align: center;
 }
+
+.bg-white{
+    background:#fff!important;
+}
+/*  */
